@@ -1,0 +1,21 @@
+body {
+	background-color:#FFE;
+	border:solid 1px black;
+
+}
+
+h2 {
+	font-style:italic;
+}
+
+h3 {
+	color:#887777;
+}
+
+a{
+	color:#900000;
+}
+
+img {
+	border:solid 1px black;
+}
